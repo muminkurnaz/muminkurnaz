@@ -44,13 +44,7 @@
   </em>
 </p>
 
-```bash
-git commit -m "Hayat bir repository, her karar bir commit."
-git push origin yaşam
-```
-
 ---
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="400"/>
@@ -59,6 +53,7 @@ git push origin yaşam
 <p align="center">
   <em>“Error: Brain not found. Action: Dance initiated.”</em>
 </p>
+
 ---
 
 <p align="center">
