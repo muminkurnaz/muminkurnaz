@@ -55,29 +55,9 @@
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-</p>
-
-
-<p align="center">
-  <!-- Already added -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="40" alt="Pandas"/>
-</p>
-
-<p align="center">
-  <!-- Ek olarak eklenebilecek yeni ikonlar -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="40" alt="Scikit-Learn"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" height="40" alt="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" height="40" alt="Seaborn"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" height="40" alt="Keras"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anaconda.svg" height="40" alt="Anaconda"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" height="40" alt="Jupyter"/>
 </p>
-
-
 
 <p align="center">
 
