@@ -21,12 +21,17 @@
 
 ### 🙋‍♂️ Hakkımda
 
-Merhaba! Ben bir bilgisayar mühendisiyim, ama sadece bilgisayarlarla anlaşmam.  
-Mobil, web, masaüstü, yapay zeka, backend, frontend, API...  
-Nerede kod varsa orada bir `git commit` bırakmışımdır.  
-Bazıları kod yazar, ben sistem kurarım.  
-Bazısı debug yapar, ben çözümü log’a yazdırırım.  
-Ve evet... **Git’e olan sevgim `--force` kadar güçlü.**
+### 🙋‍♂️ Hakkımda
+
+Bilgisayar mühendisiyim ve yazılım geliştirmeyi yalnızca meslek değil, bir problem çözme sanatı olarak görüyorum.  
+Full-stack alanında kendimi geliştirmekteyim; mobil, web, masaüstü ve yapay zeka projelerinde aktif çalışıyorum.  
+Farklı sistemleri derinlemesine anlamak ve uçtan uca hakim olmak en büyük motivasyonum.  
+Versiyon kontrolü konusunda Git’i severim; düzenli commit atmayan bir proje bana huzur vermez.  
+
+```bash
+$ git commit -m "Hayat bir repository, her karar bir commit."
+$ git push origin yaşam
+
 
 ---
 
