@@ -1,7 +1,11 @@
 <h1 align="center">👨‍💻 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
 <h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muminkurnaz&theme=dark&hide_border=false" /><br/>
+  
+  <br>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/" target="_blank">
