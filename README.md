@@ -7,34 +7,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  <em>“Error: Brain not found. Action: Dance initiated.”</em>
-</p>
-
----
-
-<p align="center">
-  <em>
-    Bilgisayar mühendisiyim ve yazılım geliştirmeyi yalnızca meslek değil, bir problem çözme sanatı olarak görüyorum. <br>
-    Full-stack alanında kendimi geliştirmekteyim; mobil, web, masaüstü ve yapay zeka projelerinde aktif çalışıyorum. <br>
-    Farklı sistemleri derinlemesine anlamak ve uçtan uca hakim olmak en büyük motivasyonum. <br>
-    Versiyon kontrolü konusunda Git’i severim; düzenli commit atmayan bir proje bana huzur vermez.
-  </em>
-</p>
-
-```bash
-git commit -m "Hayat bir repository, her karar bir commit."
-git push origin yaşam
-```
-
----
-
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
@@ -61,6 +33,32 @@ git push origin yaşam
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
 </p>
 
+---
+
+<p align="center">
+  <em>
+    Bilgisayar mühendisiyim ve yazılım geliştirmeyi yalnızca meslek değil, bir problem çözme sanatı olarak görüyorum. <br>
+    Full-stack alanında kendimi geliştirmekteyim; mobil, web, masaüstü ve yapay zeka projelerinde aktif çalışıyorum. <br>
+    Farklı sistemleri derinlemesine anlamak ve uçtan uca hakim olmak en büyük motivasyonum. <br>
+    Versiyon kontrolü konusunda Git’i severim; düzenli commit atmayan bir proje bana huzur vermez.
+  </em>
+</p>
+
+```bash
+git commit -m "Hayat bir repository, her karar bir commit."
+git push origin yaşam
+```
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <em>“Error: Brain not found. Action: Dance initiated.”</em>
+</p>
 ---
 
 <p align="center">
