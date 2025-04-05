@@ -1,6 +1,10 @@
 <h1 align="center">👨‍💻 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
 <h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
+<a href="https://github.com/muminkurnaz">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muminkurnaz&theme=github-compact" />
+</a>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
