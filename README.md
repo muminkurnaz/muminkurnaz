@@ -1,5 +1,5 @@
-<h1 align="center">🧠 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
-<h3 align="center">Mobil'den web'e, yapay zekadan masaüstüne... Kod varsa ben oradayım!</h3>
+<h1 align="center">👨‍💻 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
+<h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muminkurnaz&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="muminkurnaz" />
@@ -7,19 +7,16 @@
 
 ---
 
-### 🤯 Mood
 
 <p align="center">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="400"/>
 </p>
 
 <p align="center">
-  <em>“Zihinsel dönüşüm, kodla başlar.”</em>
+  <em>“Error: Brain not found. Action: Dance initiated.”</em>
 </p>
 
 ---
-
-### 🙋‍♂️ Hakkımda
 
 Bilgisayar mühendisiyim ve yazılım geliştirmeyi yalnızca meslek değil, bir problem çözme sanatı olarak görüyorum.  
 Full-stack alanında kendimi geliştirmekteyim; mobil, web, masaüstü ve yapay zeka projelerinde aktif çalışıyorum.  
@@ -32,8 +29,6 @@ git push origin yaşam
 ```
 
 ---
-
-### 🛠️ Diller & Teknolojiler
 
 
 <p align="center">
