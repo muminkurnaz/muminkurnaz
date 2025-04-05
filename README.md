@@ -36,14 +36,10 @@
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&theme=github_dark&hide_border=true" width="40%" />
 
 ---
 
