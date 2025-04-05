@@ -2,8 +2,9 @@
 <h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
 <p align="center">
-  <img src="https://github.com/muminkurnaz/muminkurnaz/blob/main/metrics.plugin.isocalendar.svg" />
+  <img src="https://raw.githubusercontent.com/muminkurnaz/muminkurnaz/main/metrics.plugin.isocalendar.svg" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/">
