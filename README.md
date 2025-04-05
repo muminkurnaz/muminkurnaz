@@ -2,6 +2,16 @@
 <h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/muminkurnaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mmnkrnz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muminkurnaz&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="muminkurnaz" />
 </p>
 
