@@ -1,7 +1,6 @@
 <h1 align="center">👨‍💻 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
 <h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center">
