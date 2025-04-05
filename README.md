@@ -5,19 +5,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:mmnkrnz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/emncanzkrn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;
   <a href="https://bionluk.com/emncanzkrn" target="_blank">
-    <img src="https://img.shields.io/badge/Bionluk-ff8000?style=flat&logo=freelancer&logoColor=white" alt="Bionluk" />
+    <img src="https://img.shields.io/badge/-Bionluk-FF8000?style=for-the-badge&logo=freelancer&logoColor=white" alt="Bionluk">
   </a>
 </p>
 
