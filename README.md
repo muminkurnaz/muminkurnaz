@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Müminkurnaz | Full-Stack Geliştirici</h1>
+<h1 align="center">🧠 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
 <h3 align="center">Mobil'den web'e, yapay zekadan masaüstüne... Kod varsa ben oradayım!</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🤖 Yapay Zeka Ruhum
+### 🤯 Mood
 
 <p align="center">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="400"/>
@@ -21,23 +21,21 @@
 
 ### 🙋‍♂️ Hakkımda
 
-### 🙋‍♂️ Hakkımda
-
 Bilgisayar mühendisiyim ve yazılım geliştirmeyi yalnızca meslek değil, bir problem çözme sanatı olarak görüyorum.  
 Full-stack alanında kendimi geliştirmekteyim; mobil, web, masaüstü ve yapay zeka projelerinde aktif çalışıyorum.  
 Farklı sistemleri derinlemesine anlamak ve uçtan uca hakim olmak en büyük motivasyonum.  
 Versiyon kontrolü konusunda Git’i severim; düzenli commit atmayan bir proje bana huzur vermez.  
 
 ```bash
-$ git commit -m "Hayat bir repository, her karar bir commit."
-$ git push origin yaşam
+git commit -m "Hayat bir repository, her karar bir commit."
+git push origin yaşam
 ```
 
 ---
 
 ### 🛠️ Diller & Teknolojiler
 
-#### 💻 Kullandıklarım:
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
@@ -47,7 +45,7 @@ $ git push origin yaşam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
 </p>
 
-#### 🤖 Yapay Zeka & Veri Bilimi:
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
@@ -55,14 +53,13 @@ $ git push origin yaşam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
 </p>
 
-#### 🧰 Araçlar & Altyapı:
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat&logo=googlemaps&logoColor=white" height="25"/>
 </p>
 
 ---
