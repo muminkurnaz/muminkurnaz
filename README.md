@@ -1,9 +1,8 @@
 <h1 align="center">👨‍💻 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
 <h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
-<a href="https://github.com/muminkurnaz">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muminkurnaz&theme=github-compact" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/">
