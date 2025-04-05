@@ -1,40 +1,36 @@
-<h1 align="center">Hi 👋, I'm Müminkurnaz</h1>
-<h3 align="center">🧠 Full-Stack Developer | 👨‍💻 AI Explorer | ☕ Git Addict</h3>
+<h1 align="center">🧠 Müminkurnaz | Full-Stack Geliştirici</h1>
+<h3 align="center">Mobil'den web'e, yapay zekadan masaüstüne... Kod varsa ben oradayım!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muminkurnaz&label=Profile%20views&color=58a6ff&style=flat" alt="muminkurnaz" />
+  <img src="https://komarev.com/ghpvc/?username=muminkurnaz&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="muminkurnaz" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🙋‍♂️ Hakkımda
 
-I'm a Computer Engineer who likes to play in every part of the software universe. 🌌  
-From mobile to web, from desktop to deep learning — **I ship features, not excuses.** 🚀
-
-- 👨‍💻 Full-stack development (React, .NET, Flutter, C#)
-- 🤖 AI & Deep Learning (Pose Estimation, PyTorch, OpenCV)
-- 🧪 Backend systems, REST APIs, SQL-based architectures
-- 🗺 Google Maps API ninja
-- ☕ I love Git more than my morning coffee
-
-> "_Bug'la barış, commit'le huzura er._"
+Merhaba! Ben bilgisayar mühendisiyim ama sadece bilgisayarlarla anlaşmam.  
+Mobil, web, masaüstü, yapay zeka, backend, frontend, API...  
+Nerede kod, orada ben.  
+Bazıları kod yazar, ben sistem inşa ederim.  
+Bir bug varsa çözerim, bir sistem varsa geliştiririm.  
+Ve evet... **Git'e olan sevgim terminalde başlar, commit’le şairleşir.**
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Diller & Teknolojiler
 
-#### 👨‍💻 Languages & Frameworks
+#### 💻 Kullandıklarım:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
 </p>
 
-#### 🧠 AI & ML
+#### 🤖 AI & Veri Bilimi:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
@@ -42,18 +38,19 @@ From mobile to web, from desktop to deep learning — **I ship features, not exc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
 </p>
 
-#### 🛠 Tools & Databases
+#### 🧰 Araçlar & Altyapı:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat&logo=googlemaps&logoColor=white" height="25"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&theme=github_dark&hide_border=true" width="360"/>
@@ -63,15 +60,15 @@ From mobile to web, from desktop to deep learning — **I ship features, not exc
 
 ---
 
-### 🐍 GitHub Snake
+### 🤖 Yapay Zeka Ruhum
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muminkurnaz/muminkurnaz/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://media.giphy.com/media/QB8X1JAwTSGUE/giphy.gif" width="400"/>
 </p>
 
 ---
 
-### 📫 Contact Me
+### 📬 Bana Ulaş
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/">
@@ -85,6 +82,9 @@ From mobile to web, from desktop to deep learning — **I ship features, not exc
 
 ---
 
-<p align="center">
-  <em>Push fast. Debug hard. Laugh when it compiles. 😄</em>
-</p>
+### 🧘‍♂️ Geliştirici Felsefem
+
+> "Kod yazmak bir ihtiyaç değil, **yaşam tarzıdır**."  
+> – Ben, Ctrl+Z’den sonra dosya silen adam
+
+<p align="center"><em>Commit'le, push'la, debug'la. Eğlenmiyorsan yanlış branch’tesin. 😄</em></p>
