@@ -1,7 +1,9 @@
 <h1 align="center">👨‍💻 Mümin Emincan KURNAZ | Full-Stack Developer</h1>
 <h3 align="center">Computer Engineer | Focused on AI & Software Development</h3>
 
-
+<p align="center">
+  <img src="https://github.com/muminkurnaz/muminkurnaz/blob/main/metrics.plugin.isocalendar.svg" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/">
