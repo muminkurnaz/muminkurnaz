@@ -7,14 +7,26 @@
 
 ---
 
+### 🤖 Yapay Zeka Ruhum
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <em>“Zihinsel dönüşüm, kodla başlar.”</em>
+</p>
+
+---
+
 ### 🙋‍♂️ Hakkımda
 
-Merhaba! Ben bilgisayar mühendisiyim ama sadece bilgisayarlarla anlaşmam.  
+Merhaba! Ben bir bilgisayar mühendisiyim, ama sadece bilgisayarlarla anlaşmam.  
 Mobil, web, masaüstü, yapay zeka, backend, frontend, API...  
-Nerede kod, orada ben.  
-Bazıları kod yazar, ben sistem inşa ederim.  
-Bir bug varsa çözerim, bir sistem varsa geliştiririm.  
-Ve evet... **Git'e olan sevgim terminalde başlar, commit’le şairleşir.**
+Nerede kod varsa orada bir `git commit` bırakmışımdır.  
+Bazıları kod yazar, ben sistem kurarım.  
+Bazısı debug yapar, ben çözümü log’a yazdırırım.  
+Ve evet... **Git’e olan sevgim `--force` kadar güçlü.**
 
 ---
 
@@ -30,7 +42,7 @@ Ve evet... **Git'e olan sevgim terminalde başlar, commit’le şairleşir.**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
 </p>
 
-#### 🤖 AI & Veri Bilimi:
+#### 🤖 Yapay Zeka & Veri Bilimi:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
@@ -60,14 +72,6 @@ Ve evet... **Git'e olan sevgim terminalde başlar, commit’le şairleşir.**
 
 ---
 
-### 🤖 Yapay Zeka Ruhum
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QB8X1JAwTSGUE/giphy.gif" width="400"/>
-</p>
-
----
-
 ### 📬 Bana Ulaş
 
 <p align="center">
@@ -85,6 +89,6 @@ Ve evet... **Git'e olan sevgim terminalde başlar, commit’le şairleşir.**
 ### 🧘‍♂️ Geliştirici Felsefem
 
 > "Kod yazmak bir ihtiyaç değil, **yaşam tarzıdır**."  
-> – Ben, Ctrl+Z’den sonra dosya silen adam
+> – Ben, bir bug çözüp derleyince ruhu temizlenen yazılımcı
 
-<p align="center"><em>Commit'le, push'la, debug'la. Eğlenmiyorsan yanlış branch’tesin. 😄</em></p>
+<p align="center"><em>Push’lamayan coder’a developer denmez. 😄</em></p>
