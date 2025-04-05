@@ -54,6 +54,17 @@
 
 ---
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&theme=github_dark&hide_border=true" width="48%" />  
+  <img src="https://streak-stats.demolab.com?user=muminkurnaz&theme=highcontrast&hide_border=true&mode=weekly&card_width=360" width="48%" />
+
+  <br>
+</div>
+
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="400"/>
 </p>
@@ -61,19 +72,6 @@
 <p align="center">
   <em>“Error: Brain not found. Action: Dance initiated.”</em>
 </p>
-
----
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&theme=github_dark&hide_border=true" width="48%" />  
-  <img src="https://streak-stats.demolab.com?user=muminkurnaz&theme=highcontrast&hide_border=true&mode=weekly&card_width=360" width="48%" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-
-</div>
 
 ---
 
