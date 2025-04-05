@@ -31,7 +31,7 @@ Versiyon kontrolü konusunda Git’i severim; düzenli commit atmayan bir proje 
 ```bash
 $ git commit -m "Hayat bir repository, her karar bir commit."
 $ git push origin yaşam
-
+```
 
 ---
 
