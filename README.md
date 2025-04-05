@@ -36,7 +36,7 @@
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </p>
 
@@ -58,9 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muminkurnaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muminkurnaz&theme=dark&hide_border=false" /><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&theme=github_dark&hide_border=true" width="48%" />  
-  <img src="https://streak-stats.demolab.com?user=muminkurnaz&theme=highcontrast&hide_border=true&mode=weekly&card_width=360" width="48%" />
-
   <br>
 </div>
 
