@@ -71,7 +71,7 @@ git push origin yaşam
 
 ---
 
-### 📬 Bana Ulaş
+### 💬 Benimle İletişime Geçin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muminkurnaz/">
