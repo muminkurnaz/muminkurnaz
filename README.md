@@ -28,10 +28,14 @@
 </p>
 
 <p align="center">
-```bash
-$ git commit -m "Hayat bir repository, her karar bir commit."
-$ git push origin yaşam
-```
+  <em>
+    <code>
+    git commit -m "Hayat bir repository, her karar bir commit."<br>
+    git push origin yaşam
+    </code>
+  </em>
+</p>t push origin yaşam
+
 ---
 </p>
 
