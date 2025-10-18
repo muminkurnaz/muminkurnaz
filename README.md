@@ -26,13 +26,54 @@
 ---
 
 ### 🧠 About Me
-I’m a **Computer Engineer** and **Full-Stack Developer** focused on AI-driven, scalable, and maintainable products.  
-I ship across **mobile**, **web**, and **backend** with clean architecture, performance, and developer experience in mind.
+I’m a **Computer Engineer** and **Full-Stack Developer** focused on AI-driven, scalable, and maintainable systems.  
+I deliver clean, performant applications across **mobile**, **web**, and **backend** platforms.
 
 - 🔭 Focus: Real-time AI motion analysis • Cross-platform productization  
-- 🌱 Exploring: Supabase Edge Functions • Serverless on Vercel  
+- 🌱 Exploring: Supabase Edge Functions • Serverless architecture on Vercel  
 - ⚙️ Favorite Stack: `Next.js` • `React Native` • `.NET` • `Flutter` • `Supabase` • `Postgres` • `Vercel`  
 - 🧩 Motto: *A well-written codebase is the most elegant form of art.*
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <!-- 🔥 Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=muminkurnaz&theme=dark&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=muminkurnaz&theme=default&hide_border=false" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=muminkurnaz&theme=default&hide_border=false" />
+  </picture>
+  <br/><br/>
+  <!-- Overall Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&hide_border=false&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&hide_border=false&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&hide_border=false&theme=default" />
+  </picture>
+  <br/><br/>
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&hide_border=false&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&hide_border=false&theme=default" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&hide_border=false&theme=default" />
+  </picture>
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=algolia&no-frame=true&title=Commits,Experience,Repositories,Stars,Followers&row=1&column=5" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=flat&no-frame=true&title=Commits,Experience,Repositories,Stars,Followers&row=1&column=5" />
+    <img alt="GitHub Trophies" 
+      src="https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=flat&no-frame=true&title=Commits,Experience,Repositories,Stars,Followers&row=1&column=5" />
+  </picture>
+</p>
 
 ---
 
@@ -40,7 +81,6 @@ I ship across **mobile**, **web**, and **backend** with clean architecture, perf
 
 #### 💻 Core (FE/BE & Mobile)
 <p align="center">
-  <!-- JS / TS / React / React Native / Next.js / Node / .NET / Flutter / Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native"/>
@@ -81,48 +121,11 @@ I ship across **mobile**, **web**, and **backend** with clean architecture, perf
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=algolia&no-frame=true&row=1&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=flat&no-frame=true&row=1&column=7" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=muminkurnaz&theme=flat&no-frame=true&row=1&column=7" />
-  </picture>
-</p>
-
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <!-- Overall Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&hide_border=false&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&hide_border=false&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muminkurnaz&show_icons=true&hide_border=false&theme=default" />
-  </picture>
-  <br/><br/>
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&hide_border=false&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&hide_border=false&theme=default" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muminkurnaz&layout=compact&hide_border=false&theme=default" />
-  </picture>
-  <br/><br/>
-  <!-- Streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=muminkurnaz&theme=dark&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=muminkurnaz&theme=default&hide_border=false" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=muminkurnaz&theme=default&hide_border=false" />
-  </picture>
-</p>
-
----
-
 ### 💡 Development Philosophy
 > “Software is not just about code — it’s about clarity, collaboration, and continuous improvement.”
 
-I write **clean, modular, and testable** code with a long-term view on scalability and maintainability.  
-Every build balances **engineering precision** and **design thinking** to create reliable, delightful products.
+I write **clean, modular, and testable** code with long-term scalability in mind.  
+Each project merges **engineering discipline** and **design thinking** to build reliable, elegant systems.
 
 ---
 
